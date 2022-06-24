@@ -13,7 +13,7 @@ public class NewClass
 {
     public static void main(String args[])
     {
-        JFrame f=new JFrame();
+        JFrame f=new JFrame("village application");
         JLabel l=new JLabel("choose your country : ");
         JCheckBox box=new JCheckBox("INDIA");
         JCheckBox box1=new JCheckBox("USA");
