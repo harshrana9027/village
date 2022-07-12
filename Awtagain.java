@@ -25,7 +25,7 @@ public class Awtagain
         TextField t3=new TextField();
         TextField t4=new TextField();
         Label l3=new Label("first name : ");
-        Label l4=new Label("last name  : ");
+        Label l4=new Label("last name  : "+"harsh);
         
         
         l1.setBounds(30,100,100,50); 
